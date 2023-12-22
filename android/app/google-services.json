@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945129792906",
+    "project_id": "dima-k-pop",
+    "storage_bucket": "dima-k-pop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945129792906:android:93779543117b83101c5473",
+        "android_client_info": {
+          "package_name": "com.dimakpop.dima_kpop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA2kCu4jErEGjX2Puv-KPzlfrHd-ZjxYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
